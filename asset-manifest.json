@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Chirper-App/static/css/main.8ffa51d6.css",
+    "main.js": "/React-Chirper-App/static/js/main.9b53dd6d.js",
+    "index.html": "/React-Chirper-App/index.html",
+    "main.8ffa51d6.css.map": "/React-Chirper-App/static/css/main.8ffa51d6.css.map",
+    "main.9b53dd6d.js.map": "/React-Chirper-App/static/js/main.9b53dd6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ffa51d6.css",
+    "static/js/main.9b53dd6d.js"
+  ]
+}
